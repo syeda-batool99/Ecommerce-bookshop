@@ -69,5 +69,5 @@ _**You can also view your purchase history**_
 **__________________________________________________________________________________________________**
 
 
-##### We have tried our best to make this project bug-free. Thankyou for taking insterest in this project. We hope you must have liked it. :) 
+##### We have tried our best to make this project bug-free. Thankyou for taking interest in this project. We hope you must have liked it. :) 
 
